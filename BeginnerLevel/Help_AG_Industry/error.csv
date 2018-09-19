@@ -1,0 +1,164 @@
+,apmc,commodity,year,month,arrivals_in_qtl,min_price,max_price,modal_price,date,district_name,state_name,monthnum,type,msprice,msp_filter,apmc_comd
+4,Pune,bajri,2015,January,1255,1668.0,2009.0,1839.0,2015-01,Pune,Maharashtra,1,Kharif Crops,1275.0,1,bajri_Pune
+15,Pune,bajri,2016,January,1129,1760.0,2070.0,1988.0,2016-01,Pune,Maharashtra,1,Kharif Crops,1330.0,1,bajri_Pune
+3,Pune,bajri,2015,February,341,1768.0,2014.0,1891.0,2015-02,Pune,Maharashtra,2,Kharif Crops,1275.0,1,bajri_Pune
+14,Pune,bajri,2016,February,1742,1879.0,2111.0,2044.0,2016-02,Pune,Maharashtra,2,Kharif Crops,1330.0,1,bajri_Pune
+7,Pune,bajri,2015,March,135,1720.0,1975.0,1848.0,2015-03,Pune,Maharashtra,3,Kharif Crops,1275.0,1,bajri_Pune
+18,Pune,bajri,2016,March,1711,1986.0,2193.0,2137.0,2016-03,Pune,Maharashtra,3,Kharif Crops,1330.0,1,bajri_Pune
+0,Pune,bajri,2015,April,146,1819.0,2069.0,1944.0,2015-04,Pune,Maharashtra,4,Kharif Crops,1275.0,1,bajri_Pune
+12,Pune,bajri,2016,April,576,2155.0,2282.0,2251.0,2016-04,Pune,Maharashtra,4,Kharif Crops,1330.0,1,bajri_Pune
+8,Pune,bajri,2015,May,70,1657.0,1904.0,1781.0,2015-05,Pune,Maharashtra,5,Kharif Crops,1275.0,1,bajri_Pune
+19,Pune,bajri,2016,May,3292,2143.0,2286.0,2251.0,2016-05,Pune,Maharashtra,5,Kharif Crops,1330.0,1,bajri_Pune
+6,Pune,bajri,2015,June,114,1628.0,1887.0,1767.0,2015-06,Pune,Maharashtra,6,Kharif Crops,1275.0,1,bajri_Pune
+17,Pune,bajri,2016,June,4031,2098.0,2286.0,2229.0,2016-06,Pune,Maharashtra,6,Kharif Crops,1330.0,1,bajri_Pune
+5,Pune,bajri,2015,July,521,1688.0,1935.0,1865.0,2015-07,Pune,Maharashtra,7,Kharif Crops,1275.0,1,bajri_Pune
+16,Pune,bajri,2016,July,1473,2156.0,2351.0,2297.0,2016-07,Pune,Maharashtra,7,Kharif Crops,1330.0,1,bajri_Pune
+1,Pune,bajri,2015,August,181,1871.0,2054.0,1996.0,2015-08,Pune,Maharashtra,8,Kharif Crops,1275.0,1,bajri_Pune
+13,Pune,bajri,2016,August,803,2108.0,2410.0,2299.0,2016-08,Pune,Maharashtra,8,Kharif Crops,1330.0,1,bajri_Pune
+11,Pune,bajri,2015,September,183,1773.0,1982.0,1920.0,2015-09,Pune,Maharashtra,9,Kharif Crops,1275.0,1,bajri_Pune
+21,Pune,bajri,2016,September,382,2120.0,2393.0,2293.0,2016-09,Pune,Maharashtra,9,Kharif Crops,1330.0,1,bajri_Pune
+140,Pune,bajri,2014,September,501,1815.0,2053.0,1932.0,2014-09,Pune,Maharashtra,9,Kharif Crops,1250.0,1,bajri_Pune
+10,Pune,bajri,2015,October,642,1758.0,1942.0,1885.0,2015-10,Pune,Maharashtra,10,Kharif Crops,1275.0,1,bajri_Pune
+20,Pune,bajri,2016,October,882,2024.0,2258.0,2176.0,2016-10,Pune,Maharashtra,10,Kharif Crops,1330.0,1,bajri_Pune
+139,Pune,bajri,2014,October,1095,2142.0,3196.0,2669.0,2014-10,Pune,Maharashtra,10,Kharif Crops,1250.0,1,bajri_Pune
+9,Pune,bajri,2015,November,523,1860.0,2024.0,1967.0,2015-11,Pune,Maharashtra,11,Kharif Crops,1275.0,1,bajri_Pune
+22,Pune,bajri,2016,November,3257,2126.0,2415.0,2313.0,2016-11,Pune,Maharashtra,11,Kharif Crops,1330.0,1,bajri_Pune
+138,Pune,bajri,2014,November,413,1727.0,2062.0,1894.0,2014-11,Pune,Maharashtra,11,Kharif Crops,1250.0,1,bajri_Pune
+2,Pune,bajri,2015,December,1261,1942.0,2188.0,2120.0,2015-12,Pune,Maharashtra,12,Kharif Crops,1275.0,1,bajri_Pune
+137,Pune,bajri,2014,December,1398,1703.0,2121.0,1912.0,2014-12,Pune,Maharashtra,12,Kharif Crops,1250.0,1,bajri_Pune
+136,Pune,coconut,2016,August,10000,8.0,15.0,14.0,2016-08,Pune,Maharashtra,8,Other Crops,1600.0,1,coconut_Pune
+162,Pune,coconut,2014,September,11010,7.0,15.0,11.0,2014-09,Pune,Maharashtra,9,Other Crops,1425.0,1,coconut_Pune
+161,Pune,coconut,2015,October,6000,10.0,15.0,13.0,2015-10,Pune,Maharashtra,10,Other Crops,1500.0,1,coconut_Pune
+117,Pune,gr.nut kernels,2015,January,1324,6764.0,7300.0,7032.0,2015-01,Pune,Maharashtra,1,Kharif Crops,4030.0,1,gr.nut kernels_Pune
+128,Pune,gr.nut kernels,2016,January,923,7525.0,8150.0,7949.0,2016-01,Pune,Maharashtra,1,Kharif Crops,4120.0,1,gr.nut kernels_Pune
+116,Pune,gr.nut kernels,2015,February,951,6700.0,7244.0,6972.0,2015-02,Pune,Maharashtra,2,Kharif Crops,4030.0,1,gr.nut kernels_Pune
+127,Pune,gr.nut kernels,2016,February,1139,7347.0,7726.0,7610.0,2016-02,Pune,Maharashtra,2,Kharif Crops,4120.0,1,gr.nut kernels_Pune
+120,Pune,gr.nut kernels,2015,March,754,7063.0,7375.0,7219.0,2015-03,Pune,Maharashtra,3,Kharif Crops,4030.0,1,gr.nut kernels_Pune
+131,Pune,gr.nut kernels,2016,March,1138,7613.0,8077.0,7933.0,2016-03,Pune,Maharashtra,3,Kharif Crops,4120.0,1,gr.nut kernels_Pune
+113,Pune,gr.nut kernels,2015,April,864,7163.0,7519.0,7341.0,2015-04,Pune,Maharashtra,4,Kharif Crops,4030.0,1,gr.nut kernels_Pune
+125,Pune,gr.nut kernels,2016,April,724,8267.0,8611.0,8517.0,2016-04,Pune,Maharashtra,4,Kharif Crops,4120.0,1,gr.nut kernels_Pune
+121,Pune,gr.nut kernels,2015,May,508,7933.0,8250.0,8092.0,2015-05,Pune,Maharashtra,5,Kharif Crops,4030.0,1,gr.nut kernels_Pune
+132,Pune,gr.nut kernels,2016,May,1762,8202.0,8574.0,8461.0,2016-05,Pune,Maharashtra,5,Kharif Crops,4120.0,1,gr.nut kernels_Pune
+119,Pune,gr.nut kernels,2015,June,479,8106.0,8869.0,8525.0,2015-06,Pune,Maharashtra,6,Kharif Crops,4030.0,1,gr.nut kernels_Pune
+130,Pune,gr.nut kernels,2016,June,1874,8779.0,9345.0,9155.0,2016-06,Pune,Maharashtra,6,Kharif Crops,4120.0,1,gr.nut kernels_Pune
+118,Pune,gr.nut kernels,2015,July,932,8288.0,8708.0,8560.0,2015-07,Pune,Maharashtra,7,Kharif Crops,4030.0,1,gr.nut kernels_Pune
+129,Pune,gr.nut kernels,2016,July,2480,9187.0,9550.0,9432.0,2016-07,Pune,Maharashtra,7,Kharif Crops,4120.0,1,gr.nut kernels_Pune
+114,Pune,gr.nut kernels,2015,August,1205,8800.0,9296.0,9133.0,2015-08,Pune,Maharashtra,8,Kharif Crops,4030.0,1,gr.nut kernels_Pune
+126,Pune,gr.nut kernels,2016,August,1500,9069.0,9742.0,9485.0,2016-08,Pune,Maharashtra,8,Kharif Crops,4120.0,1,gr.nut kernels_Pune
+124,Pune,gr.nut kernels,2015,September,630,9085.0,9470.0,9325.0,2015-09,Pune,Maharashtra,9,Kharif Crops,4030.0,1,gr.nut kernels_Pune
+134,Pune,gr.nut kernels,2016,September,1653,8363.0,9066.0,8778.0,2016-09,Pune,Maharashtra,9,Kharif Crops,4120.0,1,gr.nut kernels_Pune
+160,Pune,gr.nut kernels,2014,September,1027,6809.0,7519.0,7192.0,2014-09,Pune,Maharashtra,9,Kharif Crops,4000.0,1,gr.nut kernels_Pune
+123,Pune,gr.nut kernels,2015,October,1053,8562.0,9123.0,8894.0,2015-10,Pune,Maharashtra,10,Kharif Crops,4030.0,1,gr.nut kernels_Pune
+133,Pune,gr.nut kernels,2016,October,2207,8075.0,8677.0,8440.0,2016-10,Pune,Maharashtra,10,Kharif Crops,4120.0,1,gr.nut kernels_Pune
+159,Pune,gr.nut kernels,2014,October,871,6700.0,7455.0,7077.0,2014-10,Pune,Maharashtra,10,Kharif Crops,4000.0,1,gr.nut kernels_Pune
+122,Pune,gr.nut kernels,2015,November,510,7185.0,7765.0,7550.0,2015-11,Pune,Maharashtra,11,Kharif Crops,4030.0,1,gr.nut kernels_Pune
+135,Pune,gr.nut kernels,2016,November,3014,7516.0,8207.0,7927.0,2016-11,Pune,Maharashtra,11,Kharif Crops,4120.0,1,gr.nut kernels_Pune
+158,Pune,gr.nut kernels,2014,November,622,6760.0,7500.0,7088.0,2014-11,Pune,Maharashtra,11,Kharif Crops,4000.0,1,gr.nut kernels_Pune
+115,Pune,gr.nut kernels,2015,December,1081,7187.0,7887.0,7682.0,2015-12,Pune,Maharashtra,12,Kharif Crops,4030.0,1,gr.nut kernels_Pune
+157,Pune,gr.nut kernels,2014,December,780,6504.0,7073.0,6790.0,2014-12,Pune,Maharashtra,12,Kharif Crops,4000.0,1,gr.nut kernels_Pune
+73,Pune,maize,2015,January,873,1416.0,1531.0,1472.0,2015-01,Pune,Maharashtra,1,Kharif Crops,1325.0,1,maize_Pune
+83,Pune,maize,2016,January,583,1635.0,1685.0,1675.0,2016-01,Pune,Maharashtra,1,Kharif Crops,1365.0,1,maize_Pune
+72,Pune,maize,2015,February,1100,1424.0,1466.0,1446.0,2015-02,Pune,Maharashtra,2,Kharif Crops,1325.0,1,maize_Pune
+76,Pune,maize,2015,March,687,1434.0,1520.0,1477.0,2015-03,Pune,Maharashtra,3,Kharif Crops,1325.0,1,maize_Pune
+86,Pune,maize,2016,March,369,1639.0,1719.0,1703.0,2016-03,Pune,Maharashtra,3,Kharif Crops,1365.0,1,maize_Pune
+69,Pune,maize,2015,April,703,1427.0,1463.0,1445.0,2015-04,Pune,Maharashtra,4,Kharif Crops,1325.0,1,maize_Pune
+81,Pune,maize,2016,April,485,1655.0,1745.0,1723.0,2016-04,Pune,Maharashtra,4,Kharif Crops,1365.0,1,maize_Pune
+77,Pune,maize,2015,May,584,1412.0,1497.0,1454.0,2015-05,Pune,Maharashtra,5,Kharif Crops,1325.0,1,maize_Pune
+87,Pune,maize,2016,May,131,1663.0,1706.0,1695.0,2016-05,Pune,Maharashtra,5,Kharif Crops,1365.0,1,maize_Pune
+75,Pune,maize,2015,June,603,1438.0,1503.0,1474.0,2015-06,Pune,Maharashtra,6,Kharif Crops,1325.0,1,maize_Pune
+85,Pune,maize,2016,June,226,1788.0,1900.0,1868.0,2016-06,Pune,Maharashtra,6,Kharif Crops,1365.0,1,maize_Pune
+74,Pune,maize,2015,July,449,1531.0,1586.0,1569.0,2015-07,Pune,Maharashtra,7,Kharif Crops,1325.0,1,maize_Pune
+84,Pune,maize,2016,July,104,1850.0,1925.0,1911.0,2016-07,Pune,Maharashtra,7,Kharif Crops,1365.0,1,maize_Pune
+70,Pune,maize,2015,August,713,1605.0,1665.0,1643.0,2015-08,Pune,Maharashtra,8,Kharif Crops,1325.0,1,maize_Pune
+82,Pune,maize,2016,August,226,1875.0,1950.0,1919.0,2016-08,Pune,Maharashtra,8,Kharif Crops,1365.0,1,maize_Pune
+80,Pune,maize,2015,September,825,1716.0,1790.0,1764.0,2015-09,Pune,Maharashtra,9,Kharif Crops,1325.0,1,maize_Pune
+152,Pune,maize,2014,September,845,1540.0,1677.0,1610.0,2014-09,Pune,Maharashtra,9,Kharif Crops,1310.0,1,maize_Pune
+79,Pune,maize,2015,October,842,1586.0,1680.0,1652.0,2015-10,Pune,Maharashtra,10,Kharif Crops,1325.0,1,maize_Pune
+88,Pune,maize,2016,October,144,1650.0,1750.0,1710.0,2016-10,Pune,Maharashtra,10,Kharif Crops,1365.0,1,maize_Pune
+151,Pune,maize,2014,October,757,2534.0,460.0,1497.0,2014-10,Pune,Maharashtra,10,Kharif Crops,1310.0,1,maize_Pune
+78,Pune,maize,2015,November,784,1590.0,1660.0,1636.0,2015-11,Pune,Maharashtra,11,Kharif Crops,1325.0,1,maize_Pune
+89,Pune,maize,2016,November,501,1434.0,1518.0,1489.0,2016-11,Pune,Maharashtra,11,Kharif Crops,1365.0,1,maize_Pune
+150,Pune,maize,2014,November,1380,1426.0,1567.0,1498.0,2014-11,Pune,Maharashtra,11,Kharif Crops,1310.0,1,maize_Pune
+71,Pune,maize,2015,December,1118,1604.0,1680.0,1660.0,2015-12,Pune,Maharashtra,12,Kharif Crops,1325.0,1,maize_Pune
+149,Pune,maize,2014,December,1596,1432.0,1504.0,1468.0,2014-12,Pune,Maharashtra,12,Kharif Crops,1310.0,1,maize_Pune
+94,Pune,rice(paddy-hus),2015,January,26754,4417.0,5511.0,4968.0,2015-01,Pune,Maharashtra,1,Kharif Crops,1450.0,1,rice(paddy-hus)_Pune
+105,Pune,rice(paddy-hus),2016,January,15129,4414.0,5643.0,5262.0,2016-01,Pune,Maharashtra,1,Kharif Crops,1510.0,1,rice(paddy-hus)_Pune
+93,Pune,rice(paddy-hus),2015,February,24579,4614.0,5670.0,5149.0,2015-02,Pune,Maharashtra,2,Kharif Crops,1450.0,1,rice(paddy-hus)_Pune
+104,Pune,rice(paddy-hus),2016,February,35649,4361.0,5658.0,5206.0,2016-02,Pune,Maharashtra,2,Kharif Crops,1510.0,1,rice(paddy-hus)_Pune
+97,Pune,rice(paddy-hus),2015,March,20078,4523.0,5662.0,5091.0,2015-03,Pune,Maharashtra,3,Kharif Crops,1450.0,1,rice(paddy-hus)_Pune
+108,Pune,rice(paddy-hus),2016,March,24890,4246.0,5486.0,5061.0,2016-03,Pune,Maharashtra,3,Kharif Crops,1510.0,1,rice(paddy-hus)_Pune
+90,Pune,rice(paddy-hus),2015,April,21184,4521.0,5822.0,5172.0,2015-04,Pune,Maharashtra,4,Kharif Crops,1450.0,1,rice(paddy-hus)_Pune
+102,Pune,rice(paddy-hus),2016,April,13695,4250.0,5481.0,5034.0,2016-04,Pune,Maharashtra,4,Kharif Crops,1510.0,1,rice(paddy-hus)_Pune
+98,Pune,rice(paddy-hus),2015,May,18871,4290.0,5321.0,4805.0,2015-05,Pune,Maharashtra,5,Kharif Crops,1450.0,1,rice(paddy-hus)_Pune
+109,Pune,rice(paddy-hus),2016,May,38822,4680.0,5612.0,5278.0,2016-05,Pune,Maharashtra,5,Kharif Crops,1510.0,1,rice(paddy-hus)_Pune
+96,Pune,rice(paddy-hus),2015,June,15643,4411.0,5349.0,4928.0,2015-06,Pune,Maharashtra,6,Kharif Crops,1450.0,1,rice(paddy-hus)_Pune
+107,Pune,rice(paddy-hus),2016,June,35022,4794.0,5766.0,5453.0,2016-06,Pune,Maharashtra,6,Kharif Crops,1510.0,1,rice(paddy-hus)_Pune
+95,Pune,rice(paddy-hus),2015,July,22746,4447.0,5462.0,5079.0,2015-07,Pune,Maharashtra,7,Kharif Crops,1450.0,1,rice(paddy-hus)_Pune
+106,Pune,rice(paddy-hus),2016,July,24644,4552.0,5710.0,5369.0,2016-07,Pune,Maharashtra,7,Kharif Crops,1510.0,1,rice(paddy-hus)_Pune
+91,Pune,rice(paddy-hus),2015,August,16631,4357.0,5201.0,4872.0,2015-08,Pune,Maharashtra,8,Kharif Crops,1450.0,1,rice(paddy-hus)_Pune
+103,Pune,rice(paddy-hus),2016,August,25012,4698.0,5761.0,5305.0,2016-08,Pune,Maharashtra,8,Kharif Crops,1510.0,1,rice(paddy-hus)_Pune
+101,Pune,rice(paddy-hus),2015,September,16452,4435.0,5446.0,5067.0,2015-09,Pune,Maharashtra,9,Kharif Crops,1450.0,1,rice(paddy-hus)_Pune
+111,Pune,rice(paddy-hus),2016,September,22786,4114.0,5777.0,5009.0,2016-09,Pune,Maharashtra,9,Kharif Crops,1510.0,1,rice(paddy-hus)_Pune
+156,Pune,rice(paddy-hus),2014,September,29764,5245.0,6528.0,5891.0,2014-09,Pune,Maharashtra,9,Kharif Crops,1400.0,1,rice(paddy-hus)_Pune
+100,Pune,rice(paddy-hus),2015,October,18647,4388.0,5383.0,5000.0,2015-10,Pune,Maharashtra,10,Kharif Crops,1450.0,1,rice(paddy-hus)_Pune
+110,Pune,rice(paddy-hus),2016,October,27635,3863.0,5542.0,4768.0,2016-10,Pune,Maharashtra,10,Kharif Crops,1510.0,1,rice(paddy-hus)_Pune
+155,Pune,rice(paddy-hus),2014,October,25012,5640.0,6664.0,7123.0,2014-10,Pune,Maharashtra,10,Kharif Crops,1400.0,1,rice(paddy-hus)_Pune
+99,Pune,rice(paddy-hus),2015,November,15530,4404.0,5331.0,4953.0,2015-11,Pune,Maharashtra,11,Kharif Crops,1450.0,1,rice(paddy-hus)_Pune
+112,Pune,rice(paddy-hus),2016,November,44160,3659.0,5062.0,4424.0,2016-11,Pune,Maharashtra,11,Kharif Crops,1510.0,1,rice(paddy-hus)_Pune
+154,Pune,rice(paddy-hus),2014,November,27979,5280.0,6540.0,5909.0,2014-11,Pune,Maharashtra,11,Kharif Crops,1400.0,1,rice(paddy-hus)_Pune
+92,Pune,rice(paddy-hus),2015,December,20515,4204.0,5409.0,5040.0,2015-12,Pune,Maharashtra,12,Kharif Crops,1450.0,1,rice(paddy-hus)_Pune
+153,Pune,rice(paddy-hus),2014,December,41032,4961.0,6481.0,5731.0,2014-12,Pune,Maharashtra,12,Kharif Crops,1400.0,1,rice(paddy-hus)_Pune
+50,Pune,sorgum(jawar),2015,January,7290,2434.0,3000.0,2708.0,2015-01,Pune,Maharashtra,1,Kharif Crops,1590.0,1,sorgum(jawar)_Pune
+61,Pune,sorgum(jawar),2016,January,6992,2285.0,2724.0,2620.0,2016-01,Pune,Maharashtra,1,Kharif Crops,1650.0,1,sorgum(jawar)_Pune
+49,Pune,sorgum(jawar),2015,February,8042,2346.0,2863.0,2602.0,2015-02,Pune,Maharashtra,2,Kharif Crops,1590.0,1,sorgum(jawar)_Pune
+60,Pune,sorgum(jawar),2016,February,13135,2390.0,2710.0,2618.0,2016-02,Pune,Maharashtra,2,Kharif Crops,1650.0,1,sorgum(jawar)_Pune
+53,Pune,sorgum(jawar),2015,March,8029,2255.0,2816.0,2535.0,2015-03,Pune,Maharashtra,3,Kharif Crops,1590.0,1,sorgum(jawar)_Pune
+64,Pune,sorgum(jawar),2016,March,13391,2561.0,2844.0,2769.0,2016-03,Pune,Maharashtra,3,Kharif Crops,1650.0,1,sorgum(jawar)_Pune
+46,Pune,sorgum(jawar),2015,April,7517,2395.0,2877.0,2636.0,2015-04,Pune,Maharashtra,4,Kharif Crops,1590.0,1,sorgum(jawar)_Pune
+58,Pune,sorgum(jawar),2016,April,5590,2541.0,2856.0,2759.0,2016-04,Pune,Maharashtra,4,Kharif Crops,1650.0,1,sorgum(jawar)_Pune
+54,Pune,sorgum(jawar),2015,May,7447,2336.0,2736.0,2536.0,2015-05,Pune,Maharashtra,5,Kharif Crops,1590.0,1,sorgum(jawar)_Pune
+65,Pune,sorgum(jawar),2016,May,5855,2270.0,2520.0,2451.0,2016-05,Pune,Maharashtra,5,Kharif Crops,1650.0,1,sorgum(jawar)_Pune
+52,Pune,sorgum(jawar),2015,June,6229,2327.0,2696.0,2527.0,2015-06,Pune,Maharashtra,6,Kharif Crops,1590.0,1,sorgum(jawar)_Pune
+63,Pune,sorgum(jawar),2016,June,4173,2276.0,2507.0,2436.0,2016-06,Pune,Maharashtra,6,Kharif Crops,1650.0,1,sorgum(jawar)_Pune
+51,Pune,sorgum(jawar),2015,July,6412,2463.0,2842.0,2721.0,2015-07,Pune,Maharashtra,7,Kharif Crops,1590.0,1,sorgum(jawar)_Pune
+62,Pune,sorgum(jawar),2016,July,9742,2628.0,2988.0,2878.0,2016-07,Pune,Maharashtra,7,Kharif Crops,1650.0,1,sorgum(jawar)_Pune
+47,Pune,sorgum(jawar),2015,August,5639,2560.0,2893.0,2773.0,2015-08,Pune,Maharashtra,8,Kharif Crops,1590.0,1,sorgum(jawar)_Pune
+59,Pune,sorgum(jawar),2016,August,10304,2876.0,3128.0,3039.0,2016-08,Pune,Maharashtra,8,Kharif Crops,1650.0,1,sorgum(jawar)_Pune
+57,Pune,sorgum(jawar),2015,September,5293,2476.0,2848.0,2716.0,2015-09,Pune,Maharashtra,9,Kharif Crops,1590.0,1,sorgum(jawar)_Pune
+67,Pune,sorgum(jawar),2016,September,9181,2602.0,2924.0,2781.0,2016-09,Pune,Maharashtra,9,Kharif Crops,1650.0,1,sorgum(jawar)_Pune
+148,Pune,sorgum(jawar),2014,September,7336,2535.0,2872.0,2702.0,2014-09,Pune,Maharashtra,9,Kharif Crops,1550.0,1,sorgum(jawar)_Pune
+56,Pune,sorgum(jawar),2015,October,6562,2390.0,2756.0,2630.0,2015-10,Pune,Maharashtra,10,Kharif Crops,1590.0,1,sorgum(jawar)_Pune
+66,Pune,sorgum(jawar),2016,October,12183,2513.0,2858.0,2734.0,2016-10,Pune,Maharashtra,10,Kharif Crops,1650.0,1,sorgum(jawar)_Pune
+147,Pune,sorgum(jawar),2014,October,6577,2472.0,2897.0,2684.0,2014-10,Pune,Maharashtra,10,Kharif Crops,1550.0,1,sorgum(jawar)_Pune
+55,Pune,sorgum(jawar),2015,November,5715,2672.0,3006.0,2886.0,2015-11,Pune,Maharashtra,11,Kharif Crops,1590.0,1,sorgum(jawar)_Pune
+68,Pune,sorgum(jawar),2016,November,13870,2804.0,3072.0,2973.0,2016-11,Pune,Maharashtra,11,Kharif Crops,1650.0,1,sorgum(jawar)_Pune
+146,Pune,sorgum(jawar),2014,November,9107,2669.0,3067.0,2886.0,2014-11,Pune,Maharashtra,11,Kharif Crops,1550.0,1,sorgum(jawar)_Pune
+48,Pune,sorgum(jawar),2015,December,7476,2475.0,2880.0,2778.0,2015-12,Pune,Maharashtra,12,Kharif Crops,1590.0,1,sorgum(jawar)_Pune
+145,Pune,sorgum(jawar),2014,December,10322,2478.0,2904.0,2691.0,2014-12,Pune,Maharashtra,12,Kharif Crops,1550.0,1,sorgum(jawar)_Pune
+27,Pune,wheat(husked),2015,January,12777,2175.0,2567.0,2370.0,2015-01,Pune,Maharashtra,1,Rabi Crops,1525.0,1,wheat(husked)_Pune
+38,Pune,wheat(husked),2016,January,5083,1926.0,2274.0,2168.0,2016-01,Pune,Maharashtra,1,Rabi Crops,1525.0,1,wheat(husked)_Pune
+26,Pune,wheat(husked),2015,February,16674,2163.0,2567.0,2365.0,2015-02,Pune,Maharashtra,2,Rabi Crops,1525.0,1,wheat(husked)_Pune
+37,Pune,wheat(husked),2016,February,10432,2009.0,2456.0,2333.0,2016-02,Pune,Maharashtra,2,Rabi Crops,1525.0,1,wheat(husked)_Pune
+30,Pune,wheat(husked),2015,March,18676,2190.0,2585.0,2387.0,2015-03,Pune,Maharashtra,3,Rabi Crops,1525.0,1,wheat(husked)_Pune
+41,Pune,wheat(husked),2016,March,10816,2039.0,2470.0,2347.0,2016-03,Pune,Maharashtra,3,Rabi Crops,1525.0,1,wheat(husked)_Pune
+23,Pune,wheat(husked),2015,April,15996,2316.0,2806.0,2556.0,2015-04,Pune,Maharashtra,4,Rabi Crops,1525.0,1,wheat(husked)_Pune
+35,Pune,wheat(husked),2016,April,7676,2299.0,2621.0,2520.0,2016-04,Pune,Maharashtra,4,Rabi Crops,1525.0,1,wheat(husked)_Pune
+31,Pune,wheat(husked),2015,May,10370,2194.0,2695.0,2444.0,2015-05,Pune,Maharashtra,5,Rabi Crops,1525.0,1,wheat(husked)_Pune
+42,Pune,wheat(husked),2016,May,12072,2084.0,2392.0,2300.0,2016-05,Pune,Maharashtra,5,Rabi Crops,1525.0,1,wheat(husked)_Pune
+29,Pune,wheat(husked),2015,June,7660,2086.0,2757.0,2488.0,2015-06,Pune,Maharashtra,6,Rabi Crops,1525.0,1,wheat(husked)_Pune
+40,Pune,wheat(husked),2016,June,9912,2008.0,2290.0,2204.0,2016-06,Pune,Maharashtra,6,Rabi Crops,1525.0,1,wheat(husked)_Pune
+28,Pune,wheat(husked),2015,July,7539,2237.0,2758.0,2579.0,2015-07,Pune,Maharashtra,7,Rabi Crops,1525.0,1,wheat(husked)_Pune
+39,Pune,wheat(husked),2016,July,7275,2041.0,2529.0,2419.0,2016-07,Pune,Maharashtra,7,Rabi Crops,1525.0,1,wheat(husked)_Pune
+24,Pune,wheat(husked),2015,August,6408,2134.0,2671.0,2462.0,2015-08,Pune,Maharashtra,8,Rabi Crops,1525.0,1,wheat(husked)_Pune
+36,Pune,wheat(husked),2016,August,7235,2123.0,2525.0,2379.0,2016-08,Pune,Maharashtra,8,Rabi Crops,1525.0,1,wheat(husked)_Pune
+34,Pune,wheat(husked),2015,September,7507,2208.0,2650.0,2500.0,2015-09,Pune,Maharashtra,9,Rabi Crops,1525.0,1,wheat(husked)_Pune
+44,Pune,wheat(husked),2016,September,5482,2157.0,2437.0,2336.0,2016-09,Pune,Maharashtra,9,Rabi Crops,1525.0,1,wheat(husked)_Pune
+144,Pune,wheat(husked),2014,September,14940,1906.0,2164.0,2044.0,2014-09,Pune,Maharashtra,9,Rabi Crops,1450.0,1,wheat(husked)_Pune
+33,Pune,wheat(husked),2015,October,6866,2249.0,2721.0,2544.0,2015-10,Pune,Maharashtra,10,Rabi Crops,1525.0,1,wheat(husked)_Pune
+43,Pune,wheat(husked),2016,October,4547,2151.0,2401.0,2309.0,2016-10,Pune,Maharashtra,10,Rabi Crops,1525.0,1,wheat(husked)_Pune
+143,Pune,wheat(husked),2014,October,12142,1803.0,2043.0,1925.0,2014-10,Pune,Maharashtra,10,Rabi Crops,1450.0,1,wheat(husked)_Pune
+32,Pune,wheat(husked),2015,November,5695,2290.0,2877.0,2632.0,2015-11,Pune,Maharashtra,11,Rabi Crops,1525.0,1,wheat(husked)_Pune
+45,Pune,wheat(husked),2016,November,4225,2497.0,2832.0,2698.0,2016-11,Pune,Maharashtra,11,Rabi Crops,1525.0,1,wheat(husked)_Pune
+142,Pune,wheat(husked),2014,November,16194,2127.0,2556.0,2341.0,2014-11,Pune,Maharashtra,11,Rabi Crops,1450.0,1,wheat(husked)_Pune
+25,Pune,wheat(husked),2015,December,7344,2191.0,2698.0,2538.0,2015-12,Pune,Maharashtra,12,Rabi Crops,1525.0,1,wheat(husked)_Pune
+141,Pune,wheat(husked),2014,December,20709,2250.0,2628.0,2439.0,2014-12,Pune,Maharashtra,12,Rabi Crops,1450.0,1,wheat(husked)_Pune
