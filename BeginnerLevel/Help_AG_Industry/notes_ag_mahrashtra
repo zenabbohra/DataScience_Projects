@@ -1,0 +1,78 @@
+
+**1. Reading, processing and Exploring Data 
+
+- Removing extra spaces, underscore, removed duplicates (like SUGAR-CANE & SUGARCANE) and made everything lower case for the ease of comparison
+- Explore data using describe() func - check for missing values, mean, max and min prices for the numerical columns
+
+
+**2. Treatment of Missing Values
+
+- We can replace a missing value with median or mean, Let's check which one is a better representative of the msprice column
+- We will also have to check which commodity has missing values and replace it with that commodity's median/mean only
+Findings:
+- Total 10 values are missing from msprice column
+- Missing values are for different commodities
+- Mostly in year 2016, so rather than taking median here, we should use msprice of 2015 as a proxy for year 2016
+- For 'Soyabean_Black', we can use 2014 value as 2015 is also missing
+
+Lets fix cases where max and min price values are absurd for eg - a) price is zero, b) max_price < min_price; Dropping of columns leads to loss in information, so lets replace these values with an appropriate proxy
+    
+    
+**3. Treatment of outliers
+
+Treatment of Outliers doesn't make sense for msp_data as it is declared by govt. So let's treat ouliers in apmc_data
+
+*Approach to identify and treat outliers:
+
+- Calculate mean of modal price for every apmc, commodity combination for every month across years
+- Check what values > (mean + 3std) and < (mean - 3std) or we can check values < 5percentile and >95percentile
+- Once identified, we will replace outliers with average value in that month for that commodity
+
+#### Insights on the supply and price trend 
+Most of the times the price trend is in line with Demand Supply principle, as supply goes up, price goes down. But sometimes prices take time to effect and does not show downward trend in the same month but subsequent months if the suplly trend keep on increasing
+
+Sometimes we see that the min_price falls below msprice when arrivals_in_qtl skyrockets in certain month a
+
+**Insights on Bajri price and supply trend
+
+- Average price of Bajri is on an upward trend in the first 6 months of the year 
+- The supply of bajri starts to increase from July till October and prices starts to plummet (trend is prominent in 2016)
+- We can see a sharp decline in the month of October for almost every apmc in the year 2016
+
+**Insights on safflower demand supply trend:
+
+- Supply is highest in the month of March and starts declining post that
+- Prices is lowest in the month of March and gradually increases post that until there is supply in the market
+- Cultivation of safflower is almost negligible in the later half of the year except in few apmcs like Latur and Kalamb
+
+
+
+#### Checking for Seasonality in the prices
+
+Time Series dataset has mainly 3 componets a) Trend b) Seasonality (i.e repeatation of a pattern for a fixed period of time; can be additive or multiplicative) and c) Noise
+
+If there is trend or seasonality in the data then it is called non stationary data (i.e. its mean and variance changes overtime) and below ways can be used to check non stationarity of a dataset:
+
+-Read the time series plot carefully
+-Summary of statistics like mean and variance - Divide the data into 2 halves and compare mean and variance of both datasets against each other. This is only useful only if data follows a Gaussian-like distribution
+
+**Approach to detect seasonality:
+
+- Plot ACF of price with itself and indentify periodicity (i.e. the Lag at which maximum autocorrelation occurs)
+- Use this periodicity/interval to calculate differenced data
+  - Post removing trend sometimes data is obviously seasonal. If not, then autocorrelation coefficient is checked for periodicity
+- Detect the type of seasoanlity (Additive/Multiplicative) from the plot
+  - if the magnitude of seasonal component doesn't change overtime then it is additive in nature else it is multiplicative
+  
+Note that there are 2 ways of detrending a time series 1) Subtract the rolling mean from the observed series 2) Differencing
+
+
+**Approach to remove seasonality:
+
+- Based on the type of seasonality (additive/multiplicative), apply time sereis decomposition method
+- Time Series Decompostion method will separate trend and seasonality from the data
+- Use the seasonal component to seasonally adjust the original series: Additive = Time series - Seasonal; Multiplicative = Time Series/Seasonal
+
+**Comparison b/w raw & deseasonalised prices with msprice
+
+
